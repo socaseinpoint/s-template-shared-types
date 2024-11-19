@@ -1,0 +1,15 @@
+{
+  "name": "@project-name/shared-types",
+  "version": "1.0.0",
+  "description": "Shared TypeScript types for communication between FrontendA and FrontendB",
+  "main": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": true, // Генерация .d.ts файлов
+    "declarationMap": true, // Карты деклараций для отладки
+    "emitDeclarationOnly": true, // Генерация только типов
+    "outDir": "./dist", // Папка для скомпилированных файлов
+    "strict": true, // Включить строгий режим
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

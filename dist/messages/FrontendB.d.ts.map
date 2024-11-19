@@ -1,0 +1,1 @@
+{"version":3,"file":"FrontendB.d.ts","sourceRoot":"","sources":["../../src/messages/FrontendB.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,gBAAgB;IAC/B,IAAI,EAAE,QAAQ,GAAG,QAAQ,CAAC;IAC1B,OAAO,EAAE;QACP,MAAM,EAAE,MAAM,CAAC;QACf,OAAO,CAAC,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,CAAC;QAClC,SAAS,EAAE,MAAM,CAAC;KACnB,CAAC;CACH"}
